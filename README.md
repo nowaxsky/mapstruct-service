@@ -1,0 +1,2 @@
+# mapstruct-service
+mapstruct-service
